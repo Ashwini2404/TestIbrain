@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources
+C:\Users\admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+C:\Users\admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Database1.mdf
+C:\Users\admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Database1_log.ldf
+C:\Users\admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Database2.mdf
+C:\Users\admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Database2_log.ldf
+C:\Users\admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form2.resources
